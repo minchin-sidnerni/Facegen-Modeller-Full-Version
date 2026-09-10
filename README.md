@@ -240,3 +240,6 @@ This repository serves as the official landing page for FaceGen Modeller. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FaceGen Modeller today!**
+
+---
+**Last updated:** 2026-09-10 16:05:11 UTC
