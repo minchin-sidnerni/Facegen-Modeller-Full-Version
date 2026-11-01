@@ -242,4 +242,4 @@ This repository serves as the official landing page for FaceGen Modeller. The so
 **Get the most recent version of FaceGen Modeller today!**
 
 ---
-**Last updated:** 2026-11-01 01:59:10 UTC
+**Last updated:** 2026-11-01 09:05:27 UTC
